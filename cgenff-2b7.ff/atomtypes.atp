@@ -1,0 +1,148 @@
+HGA1	1.00800 ;	proton, CH 
+HGA2	1.00800 ;	proton, CH2 
+HGA3	1.00800 ;	proton, CH3 
+HGA4	1.00800 ;	proton; RHC= 
+HGA5	1.00800 ;	proton; H2C=CR 
+HGA6	1.00800 ;	H on fluorinated C, monofluoro 
+HGA7	1.00800 ;	H on fluorinated C, difluoro 
+HGAAM0	1.00800 ;	H, NEUTRAL trimethylamine (#) 
+HGAAM1	1.00800 ;	H, NEUTRAL dimethylamine (#) 
+HGAAM2	1.00800 ;	H, NEUTRAL methylamine (#) 
+HGP1	1.00800 ;	H 
+HGP2	1.00800 ;	H, +ve charge 
+HGP3	1.00800 ;	H, thiol 
+HGP4	1.00800 ;	H, neutral conjugated -NH2 group (NA bases) 
+HGP5	1.00800 ;	H on quarternary ammonium salt (choline) 
+HGPAM1	1.00800 ;	H, NEUTRAL dimethylamine (#) 
+HGPAM2	1.00800 ;	H, NEUTRAL methylamine (#) 
+HGPAM3	1.00800 ;	H, NEUTRAL ammonia (#) 
+HGR51	1.00800 ;	H, neutral 5-mem planar ring C, LJ based on benzene 
+HGR52	1.00800 ;	H, formamide H (RCOH); nonpolar H, neutral 5-mem planar ring C adjacent to heteroatom or + charge 
+HGR53	1.00800 ;	H, +ve charge HIS he1(+1) 
+HGR61	1.00800 ;	H 
+HGR62	1.00800 ;	H, neutral 6-mem planar ring C adjacent to heteroatom 
+HGR63	1.00800 ;	H, NAD+ nicotineamide all ring CH hydrogens 
+HGR71	1.00800 ;	H, neutral 7-mem arom ring, AZUL, azulene, kevo 
+CG1T1	12.01100 ;	C 
+CG1N1	12.01100 ;	for cyano group 
+CG2D1	12.01100 ;	RHC= ; imine C 
+CG2D2	12.01100 ;	H2C= 
+CG2D1O	12.01100 ;	bond carbon adjacent to heteroatom. In conjugated systems, the atom to which it is double bonded must be CG2DC1. 
+CG2D2O	12.01100 ;	bond carbon adjacent to heteroatom. In conjugated systems, the atom to which it is double bonded must be CG2DC2. 
+CG2DC1	12.01100 ;	alkenes, R2C=CR2 
+CG2DC2	12.01100 ;	alkenes, R2C=CR2 
+CG2DC3	12.01100 ;	alkenes, H2C= 
+CG2N1	12.01100 ;	C in guanidine/guanidinium 
+CG2N2	12.01100 ;	C in amidinium cation 
+CG2O1	12.01100 ;	C: amides 
+CG2O2	12.01100 ;	C: esters, [neutral] carboxylic acids 
+CG2O3	12.01100 ;	C: [negative] carboxylates 
+CG2O4	12.01100 ;	C: aldehydes 
+CG2O5	12.01100 ;	C: ketones 
+CG2O6	12.01100 ;	C: urea, carbonate 
+CG2O7	12.01100 ;	carbon 
+CG2R51	12.01100 ;	ring, his CG, CD2(0), trp 
+CG2R52	12.01100 ;	ring, double bound to N, PYRZ, pyrazole 
+CG2R53	12.01100 ;	ring, double bound to N and adjacent to another heteroatom, purine C8, his CE1 (0,+1), 2PDO, kevo 
+CG2R61	12.01100 ;	aromatic C 
+CG2R62	12.01100 ;	aromatic C for protonated pyridine (NIC) and rings containing carbonyls (see CG2R63) (NA) 
+CG2R63	12.01100 ;	aromatic amide carbon (NA) (and other 6-mem aromatic carbonyls?) 
+CG2R64	12.01100 ;	aromatic amidine and guanidine carbon (between 2 or 3 Ns and double-bound to one of them), NA, PYRM 
+CG2R66	12.01100 ;	aromatic carbon bound to F 
+CG2R67	12.01100 ;	aromatic carbon of biphenyl 
+CG2RC0	12.01100 ;	ring bridging C, guanine C4,C5, trp 
+CG2R71	12.01100 ;	ring arom C, AZUL, azulene, kevo 
+CG2RC7	12.01100 ;	ring connection with single bond(!), AZUL, azulene, kevo 
+CG301	12.01100 ;	C, no hydrogens, neopentane 
+CG302	12.01100 ;	C, no hydrogens, trifluoromethyl 
+CG311	12.01100 ;	C with 1 H, CH 
+CG312	12.01100 ;	C with 1 H, difluoromethyl 
+CG314	12.01100 ;	C with 1 H, adjacent to positive N (PROT NTER) (+) 
+CG321	12.01100 ;	C for CH2 
+CG322	12.01100 ;	C for CH2, monofluoromethyl 
+CG323	12.01100 ;	C for CH2, thiolate carbon 
+CG324	12.01100 ;	C for CH2, adjacent to positive N (piperidine) (+) 
+CG331	12.01100 ;	C for methyl group (-CH3) 
+CG334	12.01100 ;	C for methyl group (-CH3), adjacent to positive N (PROT NTER) (+) 
+CG3AM0	12.01100 ;	C for CH3, NEUTRAL trimethylamine methyl carbon (#) 
+CG3AM1	12.01100 ;	C for CH3, NEUTRAL dimethylamine methyl carbon (#) 
+CG3AM2	12.01100 ;	C for CH3, NEUTRAL methylamine methyl carbon (#) 
+CG3C31	12.01100 ;	carbon 
+CG3C50	12.01100 ;	ring aliphatic quaternary C (cholesterol, bile acids) 
+CG3C51	12.01100 ;	ring aliphatic CH (proline CA, furanoses) 
+CG3C52	12.01100 ;	ring aliphatic CH2 (proline CB/CG/CD, THF, deoxyribose) 
+CG3C53	12.01100 ;	ring aliphatic CH adjacent to positive N (proline.H+ CA) (+) 
+CG3C54	12.01100 ;	ring aliphatic CH2 adjacent to positive N (proline.H+ CD) (+) 
+CG3RC1	12.01100 ;	in bicyclic systems containing at least one 5-membered or smaller ring 
+NG1T1	14.00700 ;	for cyano group 
+NG2D1	14.00700 ;	for neutral imine/Schiff's base (C=N-R, acyclic amidine, gunaidine) 
+NG2S0	14.00700 ;	amide, proline N (CO=NRR') 
+NG2S1	14.00700 ;	nitrogen (CO=NHR) 
+NG2S2	14.00700 ;	amide nitrogen (CO=NH2) 
+NG2S3	14.00700 ;	amine ring nitrogen (planar/aniline), phosphoramidate 
+NG2O1	14.00700 ;	nitrobenzene 
+NG2P1	14.00700 ;	for protonated imine/Schiff's base (C=N(+)H-R, acyclic amidinium, guanidinium) 
+NG2R50	14.00700 ;	bound neutral 5-mem planar ring, purine N7 
+NG2R51	14.00700 ;	bound neutral 5-mem planar (all atom types sp2) ring, his, trp pyrrole (fused) 
+NG2R52	14.00700 ;	schiff base, amidinium, guanidinium in 5-membered ring, HIS, 2HPP, kevo 
+NG2R53	14.00700 ;	in 5-memebered NON-SP2 ring (slightly pyramidized), 2PDO, kevo 
+NG2R60	14.00700 ;	bound neutral 6-mem planar ring, pyr1, pyzn 
+NG2R61	14.00700 ;	bound neutral 6-mem planar ring imino nitrogen; glycosyl linkage 
+NG2R62	14.00700 ;	bound 6-mem planar ring with heteroatoms in o or m, pyrd, pyrm 
+NG2RC0	14.00700 ;	ring bridging N, indolizine, INDZ, kevo 
+NG301	14.00700 ;	trimethylamine nitrogen 
+NG311	14.00700 ;	dimethylamine nitrogen 
+NG321	14.00700 ;	methylamine nitrogen 
+NG331	14.00700 ;	ammonia nitrogen 
+NG3C51	14.00700 ;	sp3 amine in 5-membered ring 
+NG3N1	14.00700 ;	in hydrazine, HDZN 
+NG3P0	14.00700 ;	N+, choline 
+NG3P1	14.00700 ;	NH+ (PIP) 
+NG3P2	14.00700 ;	NH2+ (proline) 
+NG3P3	14.00700 ;	NH3+, phosphatidylethanolamine 
+OG2D1	15.99940 ;	O: amides, esters, [neutral] carboxylic acids, aldehydes, uera 
+OG2D2	15.99940 ;	O: negative groups: carboxylates, carbonate 
+OG2D3	15.99940 ;	O: ketones 
+OG2D4	15.99940 ;	aromatic carbonyl oxygen (nucleic bases) 
+OG2D5	15.99940 ;	oxygen 
+OG2N1	15.99940 ;	nitrobenzene 
+OG2P1	15.99940 ;	in phosphate or sulfate 
+OG2R50	15.99940 ;	furan 
+OG3R60	15.99940 ;	in 6-mem cyclic enol ether (PY01, PY02) or ester 
+OG301	15.99940 ;	-O- !SHOULD WE HAVE A SEPARATE ENOL ETHER??? IF YES, SHOULD WE MERGE IT WITH OG3R60??? 
+OG302	15.99940 ;	-O- 
+OG303	15.99940 ;	ester oxygen 
+OG304	15.99940 ;	oxygen in pyrophosphate/pyrosulphate 
+OG311	15.99940 ;	oxygen 
+OG312	15.99940 ;	alcohol oxygen 
+OG3C51	15.99940 ;	furanose ring oxygen (ether) 
+OG3C61	15.99940 ;	dioxane, ether in 6-membered ring !SHOULD WE MERGE THIS WITH OG3R60??? 
+SG2D1	32.06000 ;	S 
+SG2R50	32.06000 ;	thiophene 
+SG311	32.06000 ;	SH, -S- 
+SG301	32.06000 ;	C-S-S-C type 
+SG302	32.06000 ;	sulfur (-1) 
+SG3O1	32.06000 ;	-1 sulfur 
+SG3O2	32.06000 ;	sulfone/sulfonamide sulfur 
+SG3O3	32.06000 ;	sulfoxide sulfur 
+CLGA1	35.45300 ;	DCLE, chloroethane, 1,1-dichloroethane 
+CLGA3	35.45300 ;	1,1,1-trichloroethane 
+CLGR1	35.45300 ;	chlorobenzene 
+BRGA1	79.90400 ;	bromoethane 
+BRGA2	79.90400 ;	1,1-dibromoethane 
+BRGA3	79.90400 ;	1,1,1-dibromoethane 
+BRGR1	79.90400 ;	bromobenzene 
+IGR1	126.90447 ;	iodobenzene 
+FGA1	18.99800 ;	fluorine, monofluoro 
+FGA2	18.99800 ;	fluorine, difluoro 
+FGA3	18.99800 ;	fluorine, trifluoro 
+FGP1	18.99800 ;	F, for ALF4 AlF4- 
+FGR1	18.99800 ;	flourine 
+PG0	30.97380 ;	phosphate 
+PG1	30.97380 ;	-1 
+PG2	30.97380 ;	-2 
+ALG1	26.98154 ;	for ALF4, AlF4- 
+CG25C1	12.01100 ;	as CG2DC1 but in 5-membered ring with exocyclic double bond 
+CG25C2	12.01100 ;	as CG2DC2 but in 5-membered ring with exocyclic double bond 
+CG251O	12.01100 ;	as CG2D1O but in 5-membered ring with exocyclic double bond 
+CG252O	12.01100 ;	as CG2D2O but in 5-membered ring with exocyclic double bond 
